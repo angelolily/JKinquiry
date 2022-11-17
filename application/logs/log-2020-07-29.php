@@ -1,0 +1,10 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-29 02:06:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, null given D:\phpStudy\PHPTutorial\WWW\JKInquiry\application\controllers\Wmenu.php 201
+ERROR - 2020-07-29 02:08:13 --> Severity: error --> Exception: Request access_token fail: {"errcode":40164,"errmsg":"invalid ip 112.49.104.99 ipv6 ::ffff:112.49.104.99, not in whitelist hint: [DEodIymoRa-vIj5eA]"} D:\phpStudy\PHPTutorial\WWW\JKInquiry\vendor\overtrue\wechat\src\Kernel\AccessToken.php 182
+ERROR - 2020-07-29 02:08:57 --> Severity: error --> Exception: Request access_token fail: {"errcode":40164,"errmsg":"invalid ip 112.49.104.99 ipv6 ::ffff:112.49.104.99, not in whitelist hint: [DEodG.wgE-L0hPIa]"} D:\phpStudy\PHPTutorial\WWW\JKInquiry\vendor\overtrue\wechat\src\Kernel\AccessToken.php 182
+ERROR - 2020-07-29 02:13:20 --> Severity: error --> Exception: Request access_token fail: {"errcode":40164,"errmsg":"invalid ip 121.204.36.253 ipv6 ::ffff:121.204.36.253, not in whitelist hint: [gEodpJ4FE-BYl7Ga]"} D:\phpStudy\PHPTutorial\WWW\JKInquiry\vendor\overtrue\wechat\src\Kernel\AccessToken.php 182
+ERROR - 2020-07-29 02:14:15 --> Severity: error --> Exception: Argument 1 passed to EasyWeChat\OfficialAccount\Menu\Client::create() must be of the type array, string given, called in D:\phpStudy\PHPTutorial\WWW\JKInquiry\application\models\Wechat_Tool_Model.php on line 239 D:\phpStudy\PHPTutorial\WWW\JKInquiry\vendor\overtrue\wechat\src\OfficialAccount\Menu\Client.php 51
+ERROR - 2020-07-29 02:15:39 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given D:\phpStudy\PHPTutorial\WWW\JKInquiry\application\models\Wechat_Tool_Model.php 240
+ERROR - 2020-07-29 02:16:33 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given D:\phpStudy\PHPTutorial\WWW\JKInquiry\application\models\Wechat_Tool_Model.php 240
+ERROR - 2020-07-29 02:17:20 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given D:\phpStudy\PHPTutorial\WWW\JKInquiry\application\models\Wechat_Tool_Model.php 240
